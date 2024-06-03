@@ -32,8 +32,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/python-api-development-demo.git
-    cd python-api-development-demo
+    git clone https://github.com/bipuldevashish/api_dev_demo
+    cd api_dev_demo
     ```
 
 2. **Create a virtual environment**:
